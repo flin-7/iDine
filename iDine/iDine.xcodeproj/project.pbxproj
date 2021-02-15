@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E55F3E2C25DA4D6D005A682D /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55F3E2B25DA4D6D005A682D /* ItemRow.swift */; };
 		E5CD811F25D8A67E00D8A782 /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CD811E25D8A67E00D8A782 /* iDineApp.swift */; };
 		E5CD812125D8A67E00D8A782 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CD812025D8A67E00D8A782 /* ContentView.swift */; };
 		E5CD812325D8A67F00D8A782 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5CD812225D8A67F00D8A782 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E55F3E2B25DA4D6D005A682D /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		E5CD811B25D8A67E00D8A782 /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5CD811E25D8A67E00D8A782 /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
 		E5CD812025D8A67E00D8A782 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 			children = (
 				E5CD811E25D8A67E00D8A782 /* iDineApp.swift */,
 				E5CD812025D8A67E00D8A782 /* ContentView.swift */,
+				E55F3E2B25DA4D6D005A682D /* ItemRow.swift */,
 				E5CD812F25D8A6C200D8A782 /* Helper.swift */,
 				E5CD812E25D8A6C200D8A782 /* Menu.swift */,
 				E5CD813025D8A6C200D8A782 /* Order.swift */,
@@ -154,6 +157,7 @@
 				E5CD813125D8A6C200D8A782 /* Menu.swift in Sources */,
 				E5CD812125D8A67E00D8A782 /* ContentView.swift in Sources */,
 				E5CD813325D8A6C200D8A782 /* Order.swift in Sources */,
+				E55F3E2C25DA4D6D005A682D /* ItemRow.swift in Sources */,
 				E5CD811F25D8A67E00D8A782 /* iDineApp.swift in Sources */,
 				E5CD813225D8A6C200D8A782 /* Helper.swift in Sources */,
 			);
