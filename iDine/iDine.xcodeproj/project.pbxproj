@@ -18,6 +18,7 @@
 		E5CD813625D8A6C900D8A782 /* menu.json in Resources */ = {isa = PBXBuildFile; fileRef = E5CD813525D8A6C900D8A782 /* menu.json */; };
 		E5CEE52925DB15C700AA7273 /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CEE52825DB15C700AA7273 /* ItemDetail.swift */; };
 		E5CEE52C25DB1BAE00AA7273 /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CEE52B25DB1BAE00AA7273 /* OrderView.swift */; };
+		E5CEE52F25DB1D1F00AA7273 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CEE52E25DB1D1F00AA7273 /* MainView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E5CD813525D8A6C900D8A782 /* menu.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = menu.json; sourceTree = "<group>"; };
 		E5CEE52825DB15C700AA7273 /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		E5CEE52B25DB1BAE00AA7273 /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
+		E5CEE52E25DB1D1F00AA7273 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				E55F3E2B25DA4D6D005A682D /* ItemRow.swift */,
 				E5CEE52825DB15C700AA7273 /* ItemDetail.swift */,
 				E5CEE52B25DB1BAE00AA7273 /* OrderView.swift */,
+				E5CEE52E25DB1D1F00AA7273 /* MainView.swift */,
 				E5CD812F25D8A6C200D8A782 /* Helper.swift */,
 				E5CD812E25D8A6C200D8A782 /* Menu.swift */,
 				E5CD813025D8A6C200D8A782 /* Order.swift */,
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E5CEE52925DB15C700AA7273 /* ItemDetail.swift in Sources */,
+				E5CEE52F25DB1D1F00AA7273 /* MainView.swift in Sources */,
 				E5CEE52C25DB1BAE00AA7273 /* OrderView.swift in Sources */,
 				E5CD813125D8A6C200D8A782 /* Menu.swift in Sources */,
 				E5CD812125D8A67E00D8A782 /* ContentView.swift in Sources */,
