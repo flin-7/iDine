@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E54F4A1B25DB3DE900008DC0 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54F4A1A25DB3DE900008DC0 /* CheckoutView.swift */; };
 		E55F3E2C25DA4D6D005A682D /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55F3E2B25DA4D6D005A682D /* ItemRow.swift */; };
 		E5CD811F25D8A67E00D8A782 /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CD811E25D8A67E00D8A782 /* iDineApp.swift */; };
 		E5CD812125D8A67E00D8A782 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5CD812025D8A67E00D8A782 /* ContentView.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E54F4A1A25DB3DE900008DC0 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		E55F3E2B25DA4D6D005A682D /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		E5CD811B25D8A67E00D8A782 /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5CD811E25D8A67E00D8A782 /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				E5CEE52825DB15C700AA7273 /* ItemDetail.swift */,
 				E5CEE52B25DB1BAE00AA7273 /* OrderView.swift */,
 				E5CEE52E25DB1D1F00AA7273 /* MainView.swift */,
+				E54F4A1A25DB3DE900008DC0 /* CheckoutView.swift */,
 				E5CD812F25D8A6C200D8A782 /* Helper.swift */,
 				E5CD812E25D8A6C200D8A782 /* Menu.swift */,
 				E5CD813025D8A6C200D8A782 /* Order.swift */,
@@ -165,6 +168,7 @@
 			files = (
 				E5CEE52925DB15C700AA7273 /* ItemDetail.swift in Sources */,
 				E5CEE52F25DB1D1F00AA7273 /* MainView.swift in Sources */,
+				E54F4A1B25DB3DE900008DC0 /* CheckoutView.swift in Sources */,
 				E5CEE52C25DB1BAE00AA7273 /* OrderView.swift in Sources */,
 				E5CD813125D8A6C200D8A782 /* Menu.swift in Sources */,
 				E5CD812125D8A67E00D8A782 /* ContentView.swift in Sources */,
